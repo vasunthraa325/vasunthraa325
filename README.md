@@ -24,10 +24,13 @@
 
 Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive, user-friendly websites and applications. Whether it’s building robust backend systems, designing engaging frontends, or exploring the latest tech trends, I’m always eager to take on new challenges!
 
-🌱 Currently Learning: Next.js, GraphQL, Machine Learning, Cloud Computing
-🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js, React.js, MySQL, MongoDB
-🚀 Hobbies: Coding, Blogging, Designing Websites, Solving Problems 🧩
-💡 Fun Fact: I believe that “The best way to predict the future is to build it.”
+<p><b>🌱 Currently Learning:</b></p> Next.js, GraphQL, Machine Learning, Cloud Computing
+
+<p><b>🛠️ Tech Stack:</b></p> HTML, CSS, JavaScript, Node.js, React.js, MySQL, MongoDB
+
+<p><b>🚀 Hobbies:</b></p> Coding, Blogging, Designing Websites, Solving Problems 🧩
+
+<p><b>💡 Fun Fact:</b></p> I believe that “The best way to predict the future is to build it.”
 
 
 <hr>
