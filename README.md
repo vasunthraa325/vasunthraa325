@@ -1,19 +1,29 @@
-#🌟 Explore My Digital Space 🌟
+<p align="center">
+
+## 🌟 Explore My Digital Space 🌟
+
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/vasunthraa325/vasunthraa325/blob/main/Animation.gif?raw=true">
+    <img src="https://github.com/vasunthraa325/vasunthraa325/blob/main/Animation.gif?raw=true" width="500" alt="Typing Animation">
+  </a>
+</p>
 
 
 
-![Typing Animation](https://github.com/vasunthraa325/vasunthraa325/blob/main/Animation.gif?raw=true)
 
 
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnltc3g0dnlqaWpnZ2NvN3BqOXduZjZwbzJpbnhpMmNoOG1pMWZweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="500" alt="Coding Anime Girl">
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZntic8q0ndqlan92tNw3Bq0XdzuZjwbzJpbnhpMNe0oG1pM2WEzS1cD1ZtM9bpnR1c5nbF9naWZFYn1FaWQhY39QZw/HqUw6NTLNLzg2Qf5rH/giphy.gif" width="500" alt="Coding Anime Girl">
+</p>
 
 
 <hr>
 
 
-🛠️ About Me
+##🛠️ About Me
 
 
 Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive, user-friendly websites and applications. Whether it’s building robust backend systems, designing engaging frontends, or exploring the latest tech trends, I’m always eager to take on new challenges!
@@ -27,7 +37,7 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 <hr>
 
 
-🌟 Key Features of This Repo
+##🌟 Key Features of This Repo
 
 
 📌 Personal Bio: I am currently a B.Tech student in Computer Science, and I will be graduating in 2025.
@@ -61,13 +71,13 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 
 
-🎓 Educational Background:
+##🎓 Educational Background:
 
 B.Tech | Computer Science and Engineering (CSE), VSBCETC , 2026
 
 📜 Certifications:
 
-Soft Skills - TCS iON Career Edge | [Link] (https://github.com/vasunthraa325/vasunthraa325/blob/main/Vasunthraa__4764349.pdf)
+Soft Skills - TCS iON Career Edge | [Link](https://github.com/vasunthraa325/vasunthraa325/blob/main/Vasunthraa__4764349.pdf)
 Java Features - Infosys Springboard | Link
 Java OOPS Concepts - Infosys Springboard | Link
 Database Management System - NPTEL | Link
