@@ -1,24 +1,46 @@
 #🌟 Explore My Digital Space 🌟
+
+
+
 ![Typing Animation](https://github.com/vasunthraa325/vasunthraa325/blob/main/Animation.gif?raw=true)
+
+
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnltc3g0dnlqaWpnZ2NvN3BqOXduZjZwbzJpbnhpMmNoOG1pMWZweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="500" alt="Coding Anime Girl">
+
+
+
 <hr>
+
+
 🛠️ About Me
+
+
 Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive, user-friendly websites and applications. Whether it’s building robust backend systems, designing engaging frontends, or exploring the latest tech trends, I’m always eager to take on new challenges!
 
 🌱 Currently Learning: Next.js, GraphQL, Machine Learning, Cloud Computing
 🛠️ Tech Stack: HTML, CSS, JavaScript, Node.js, React.js, MySQL, MongoDB
 🚀 Hobbies: Coding, Blogging, Designing Websites, Solving Problems 🧩
 💡 Fun Fact: I believe that “The best way to predict the future is to build it.”
+
+
 <hr>
 
+
 🌟 Key Features of This Repo
+
+
 📌 Personal Bio: I am currently a B.Tech student in Computer Science, and I will be graduating in 2025.
 📌 Tech Highlights: Focused on Full-Stack Development, Java, UI/UX design, and Web Technologies.
 📌 Featured Projects: Real-time bus route tracker, Chatbot with NLP, Hospital Management System.
 📌 Certifications: Visit my LinkedIn for details | [LinkedIn Link](https://www.linkedin.com/in/vasunthraa-gopalsamy-0388742a2/)
 
 <hr>
+
+
 ## 🛠️ Tools & Technologies
+
+
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -37,7 +59,10 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 📜 Certifications & Achievements
 
+
+
 🎓 Educational Background:
+
 B.Tech | Computer Science and Engineering (CSE), VSBCETC , 2026
 
 📜 Certifications:
@@ -48,6 +73,7 @@ Java OOPS Concepts - Infosys Springboard | Link
 Database Management System - NPTEL | Link
 
 🏆 Achievements (In Progress):
+
 
 Winner of [Competition/Event Name] 🥇
 Successfully completed [Hackathon/Challenge]
