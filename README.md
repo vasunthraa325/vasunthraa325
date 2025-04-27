@@ -1,6 +1,4 @@
-<p align="center">
-  
-  ## 🌟 Explore My Digital Space 🌟</p>
+<h1 align="center">🌟 Explore My Digital Space 🌟</h1>
 
 
 <p align="center">
