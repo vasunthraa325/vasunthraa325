@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Explore My Digital Space 🌟</h1>
+<h1 align="center">🖥 Explore My Digital Space 🖥</h1>
 
 
 <p align="center">
