@@ -24,13 +24,10 @@
 
 Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive, user-friendly websites and applications. Whether it’s building robust backend systems, designing engaging frontends, or exploring the latest tech trends, I’m always eager to take on new challenges!
 
-<p><b>🌱 Currently Learning:</b></p> Next.js, GraphQL, Machine Learning, Cloud Computing
-
-<p><b>🛠️ Tech Stack:</b></p> HTML, CSS, JavaScript, Node.js, React.js, MySQL, MongoDB
-
-<p><b>🚀 Hobbies:</b></p> Coding, Blogging, Designing Websites, Solving Problems 🧩
-
-<p><b>💡 Fun Fact:</b></p> I believe that “The best way to predict the future is to build it.”
+• **Currently Learning:** Angular.js, MERN, Spring Boot & UI/UX  
+• **Tech Stack:** HTML, CSS, JavaScript, Node.js, React.js  
+• **Hobbies:** Coding, Editing Posters and Videos, Creating Games 🎮  
+• **Fun Fact:** I firmly believe that *"Debugging is twice as hard as writing the code."*
 
 
 <hr>
@@ -40,11 +37,8 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 
 <p><b>📌 Personal Bio:</b></p> I am currently a B.Tech student in Computer Science, and I will be graduating in 2025.
-
 <p><b>📌 Tech Highlights:</b></p> Focused on Full-Stack Development, Java, UI/UX design, and Web Technologies.
-
 <p><b>📌 Featured Projects:</b></p> Real-time bus route tracker, Chatbot with NLP, Hospital Management System.
-
 <p><b>📌 Certifications:</b></p> Visit my LinkedIn for details | [LinkedIn Link](https://www.linkedin.com/in/vasunthraa-gopalsamy-0388742a2/)
 
 <hr>
