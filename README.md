@@ -70,15 +70,26 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 
 <p><b>📜 Certifications:</b></p>
-Microsoft Excel Professional Certificate-Microsoft | Link
-AWS Cloud Solutions Architect-Amazon Web Services | Link
-Java Foundations - Oracle | Link
-Database Management System - NPTEL | Link
+- Microsoft Excel Professional Certificate – Microsoft [Link]  
+- AWS Cloud Solutions Architect – Amazon Web Services [Link]  
+- Java Foundations – Oracle [Link]  
+- Database Management System – NPTEL [Link]
+
+
+### 🌟 Featured Projects
 
 | 🔍 **Project Name** | 📃 **Description** | 🛠️ **Tech Used** |
 |---------------------|--------------------|-------------------|
 | 🛒 [E-Commerce Site](https://github.com/vasunthraa325/E-COMMERCE-SITE) | A fully functional online shopping platform with cart and checkout. | React.js, Node.js, MongoDB |
 | 🚌 [MyBus Project](https://github.com/vasunthraa325/MYBUS-PROJECT) | A real-time bus tracking and route scheduling system. | HTML, CSS, JavaScript, Node.js |
 | 🏥 [Hospital Management System](https://github.com/vasunthraa325/Hospicare-360) | A system for managing patient records, appointments, and billing. | Java, Spring Boot, MySQL |
+
+
+### 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasunthraagopal2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasunthraa-gopalsamy-0388742a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/vasunthraa325)
+
 
 
