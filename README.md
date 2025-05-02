@@ -43,6 +43,12 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 <hr>
 
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasunthraa325&layout=compact&theme=radical)
+
+<hr>
+
 
 ## 🛠️ Tools & Technologies
 
