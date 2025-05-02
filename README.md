@@ -107,10 +107,10 @@ B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
   <a href="https://github.com/vasunthraa325">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/vasunthraa325/">
+  <a href="https://leetcode.com/u/Vasunthraa05/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/vasunthraa325">
+  <a href="https://www.hackerrank.com/profile/Vasunthraa1304">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
