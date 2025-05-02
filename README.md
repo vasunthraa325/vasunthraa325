@@ -68,23 +68,15 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 🎓 Educational Background:
 
-B.Tech | Computer Science and Engineering (CSE), VSBCETC , 2026
+B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 
 <p><b>📜 Certifications:</b></p>
 
-Soft Skills - TCS iON Career Edge | [Link](https://github.com/vasunthraa325/vasunthraa325/blob/main/Vasunthraa__4764349.pdf)
+Microsoft Excel Professional Certificate-Microsoft | Link
 
-Java Features - Infosys Springboard | Link
+AWS Cloud Solutions Architect-Amazon Web Services | Link
 
-Java OOPS Concepts - Infosys Springboard | Link
+Java Foundations - Oracle | Link
 
 Database Management System - NPTEL | Link
 
-<p><b>🏆 Achievements (In Progress):</b></p>
-
-
-Winner of [Competition/Event Name] 🥇
-
-Successfully completed [Hackathon/Challenge]
-
-Featured in [Publication/Recognition]
