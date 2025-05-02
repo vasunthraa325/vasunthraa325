@@ -70,6 +70,7 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 
 <p><b>📜 Certifications:</b></p>
+
 - Microsoft Excel Professional Certificate – Microsoft [Link] 
 
 - AWS Cloud Solutions Architect – Amazon Web Services [Link]
