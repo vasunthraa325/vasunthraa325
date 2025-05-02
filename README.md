@@ -85,9 +85,9 @@ B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 | 🏥 [Hospital Management System](https://github.com/vasunthraa325/Hospicare-360) | A system for managing patient records, appointments, and billing. | Java, Spring Boot, MySQL |
 
 
-<div align="center">
-### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+<div align="center">
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasunthraagopal2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasunthraa-gopalsamy-0388742a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/vasunthraa325)
