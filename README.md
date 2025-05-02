@@ -44,10 +44,8 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 <hr>
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=vasunthraa325&theme=default)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasunthraa325&layout=compact)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasunthraa325&layout=compact&theme=radical)
