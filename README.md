@@ -80,6 +80,12 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 <hr>
 
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&margin-w=15&margin-h=15)
+
+## 🎖 Holopin Badges
+[![Holopin board](https://holopin.io/api/user/YourHolopinUsername/board?badgeType=all&theme=dark)](https://holopin.io/@YourHolopinUsername)
+
 
 ## 🛠️ Tools & Technologies
 
@@ -128,7 +134,6 @@ B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
 | 🛒 [E-Commerce Site](https://github.com/vasunthraa325/E-COMMERCE-SITE) | A fully functional online shopping platform with cart and checkout. | React.js, Node.js, MongoDB |
 | 🚌 [MyBus Project](https://github.com/vasunthraa325/MYBUS-PROJECT) | A real-time bus tracking and route scheduling system. | HTML, CSS, JavaScript, Node.js |
 | 🏥 [Hospital Management System](https://github.com/vasunthraa325/Hospicare-360) | A system for managing patient records, appointments, and billing. | Java, Spring Boot, MySQL |
-
 
 
 ### 🌐 Connect With Me
