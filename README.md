@@ -55,9 +55,7 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
   <img src="https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
 
   <!-- GitHub Activity Graph (Optional Longest Streak Insight) -->
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vasunthraa325&theme=default" alt="GitHub Activity Graph"/>
-
+  
 </div>
 
 
