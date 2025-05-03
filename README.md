@@ -50,11 +50,8 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vasunthraa325&theme=default&hide_border=false" alt="GitHub Streak"/>
 
-  <!-- GitHub Stats (Total Contributions) -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  
 
-  <!-- GitHub Activity Graph (Optional Longest Streak Insight) -->
   
 </div>
 
