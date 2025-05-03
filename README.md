@@ -55,10 +55,16 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
   
 </div>
 
+<h3 align="center">📊 GitHub Insights</h3>
 
+<div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasunthraa325&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&theme=radical&hide_border=false&count_private=true" height="200"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasunthraa325&layout=compact&theme=radical&hide_border=false" height="200"/>
+
+</div>
+
 
 <hr>
 
