@@ -55,7 +55,7 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
   
 </div>
 
-<h3 align="center">📊 GitHub Insights</h3>
+<h3>📊 GitHub Insights</h3>
 
 <div align="center">
 
@@ -64,6 +64,18 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasunthraa325&layout=compact&theme=radical&hide_border=false" height="200"/>
 
 </div>
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vasunthraa325&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+## 🐍 GitHub Snake Animation
+
+<p align="center">
+  <img src="https://github.com/vasunthraa325/vasunthraa325/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 
 <hr>
@@ -83,6 +95,10 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 
