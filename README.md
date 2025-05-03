@@ -43,8 +43,23 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 <hr>
 
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=vasunthraa325&theme=default)](https://git.io/streak-stats)
+### 📊 GitHub Stats<h3 align="center">🔥 GitHub Contribution Stats</h3>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasunthraa325&theme=default&hide_border=false" alt="GitHub Streak"/>
+
+  <!-- GitHub Stats (Total Contributions) -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
+
+  <!-- GitHub Activity Graph (Optional Longest Streak Insight) -->
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vasunthraa325&theme=default" alt="GitHub Activity Graph"/>
+
+</div>
+
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasunthraa325&show_icons=true&theme=radical&count_private=true)
