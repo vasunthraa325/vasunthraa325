@@ -65,17 +65,12 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 </div>
 
-## 📈 GitHub Contribution Graph
+### 📈 GitHub Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vasunthraa325&theme=github-compact)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vasunthraa325&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
+### 🐍 GitHub Snake Animation
+![snake gif](https://github.com/vasunthraa325/vasunthraa325/blob/output/github-contribution-grid-snake.svg)
 
-## 🐍 GitHub Snake Animation
-
-<p align="center">
-  <img src="https://github.com/vasunthraa325/vasunthraa325/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 
 <hr>
