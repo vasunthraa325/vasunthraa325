@@ -73,6 +73,12 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=vasunthraa325&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 ## 🎖 Holopin Badges
 [![Holopin board](https://holopin.io/api/user/YourHolopinUsername/board?badgeType=all&theme=dark)](https://holopin.io/@YourHolopinUsername)
@@ -155,6 +161,9 @@ B.E | Computer Science and Engineering (CSE), VSBCETC , 2026
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
+
+
+
 
 
 
