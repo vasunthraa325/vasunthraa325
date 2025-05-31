@@ -83,6 +83,14 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 [![trophy](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&column=7&rank=A,B,S&title=Followers,Stars,Commit,Repositories,MultiLanguage,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vasunthraa325
+&theme=dark_dimmed
+&title=Expert%20Dev,Dynamic%20User,Rainbow%20Lang%20User,Middle%20Star,Middle%20Committer,Middle%20Repo%20Creator
+)](https://github.com/vasunthraa325)
+
+
+
 ## 🎖 Holopin Badges
 [![Holopin board](https://holopin.io/api/user/YourHolopinUsername/board?badgeType=all&theme=dark)](https://holopin.io/@YourHolopinUsername)
 
