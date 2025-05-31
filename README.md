@@ -80,6 +80,9 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&column=7&rank=A,B,S&title=Followers,Stars,Commit,Repositories,MultiLanguage,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🎖 Holopin Badges
 [![Holopin board](https://holopin.io/api/user/YourHolopinUsername/board?badgeType=all&theme=dark)](https://holopin.io/@YourHolopinUsername)
 
