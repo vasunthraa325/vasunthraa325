@@ -48,7 +48,7 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasunthraa325&theme=default&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vasunthraa325&theme=radical&hide_border=false" alt="GitHub Streak"/>
 
   
 
