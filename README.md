@@ -71,10 +71,11 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 <hr>
 
+
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10
-&title=expert,developer,language,stars,commits,repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=radical&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
