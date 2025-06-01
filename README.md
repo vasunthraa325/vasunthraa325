@@ -78,7 +78,8 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 
 
 ## 🎖 Holopin Badges
-[![Holopin board](https://holopin.io/api/user/YourHolopinUsername/board?badgeType=all&theme=dark)](https://holopin.io/@YourHolopinUsername)
+[![@vasunthraa's Holopin board](https://holopin.me/vasunthraa325)](https://holopin.io/@vasunthraa325)
+
 
 
 ## 🛠️ Tools & Technologies
