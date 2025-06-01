@@ -72,8 +72,9 @@ Hi there! 👋 I'm a Full-Stack Developer passionate about crafting interactive,
 <hr>
 
 
-## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=darkhub&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vasunthraa325&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 🎖 Holopin Badges
